@@ -1,0 +1,10 @@
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\bin\Debug\Financetastic.Repository.dll
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\bin\Debug\Financetastic.Repository.pdb
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\obj\Debug\Financetastic.Repository.dll
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\obj\Debug\Financetastic.Repository.pdb
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\bin\Debug\Financetastic.Model.dll
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\bin\Debug\Financetastic.Model.pdb
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\bin\Debug\Financetastic.Repository.dll.config
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\bin\Debug\EntityFramework.dll
+C:\VS_2010_Practice\Financetastic\Financetastic.Repository\bin\Debug\EntityFramework.xml

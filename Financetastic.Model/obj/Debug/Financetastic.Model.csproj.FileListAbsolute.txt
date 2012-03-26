@@ -1,0 +1,5 @@
+C:\VS_2010_Practice\Financetastic\Financetastic.Model\bin\Debug\Financetastic.Model.dll
+C:\VS_2010_Practice\Financetastic\Financetastic.Model\bin\Debug\Financetastic.Model.pdb
+C:\VS_2010_Practice\Financetastic\Financetastic.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\VS_2010_Practice\Financetastic\Financetastic.Model\obj\Debug\Financetastic.Model.dll
+C:\VS_2010_Practice\Financetastic\Financetastic.Model\obj\Debug\Financetastic.Model.pdb
